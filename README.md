@@ -11,9 +11,16 @@ https://www.canva.com/design/DAFSZMvBiCI/d8sj_Z-sTrmOYK_pTlvb9w/view?utm_content
 
 #**Task-1**:-
 **IRIS FLOWER CLASSIFICATION**-
-💮 Isis flower has three species:-setosa,versicolor, and virginica, Which diffres according to their measurements. Now assume that you have the measurements of the iris flowers according to their species,and here your task is to train a machine learning model that can learn from the measurements of the iris species and classify them.
 
-Although the Scikit-learn library provides a data set for iris flower classification, you can also download the same dataset from here for the task of iris flower classification with Machine Learning.
+
+💮 Isis flower has three species:-setosa,versicolor, and virginica, Which diffres according to their measurements. 
+💮Now assume that you have the measurements of the iris flowers according to their species,and here your task is to train a machine learning model that can learn from the measurements of the iris species and classify them.
+
+
+
+💮Although the Scikit-learn library provides a data set for iris flower classification, you can also download the same dataset from here for the task of iris flower classification with Machine Learning.
+
+
 
 #:**Download Dataset from here:-**
 https://www.kaggle.com/datasets/saurabh00007/iriscsv
@@ -25,21 +32,30 @@ https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
 
 #**Task-2**:-
-**UNEMPLOYMENT ANALYSIS WITH PYTHON:-**
-Unemployment is measured by the unemployment rate which is the number of people who are unemployment as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data Science project.
+**UNEMPLOYMENT ANALYSIS WITH PYTHON:-** 💼
+
+
+💼Unemployment is measured by the unemployment rate which is the number of people who are unemployment as a percentage of the total labour force.
+💼We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data Science project.
+
+
 #:**Download Dataset from Here:-!**
 
 https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
 
+![Screenshot (373)](https://user-images.githubusercontent.com/99593529/215291670-7b500129-48cf-4796-9cf0-b720d353c397.png)
 
-[Screenshot (373)](https://user-images.githubusercontent.com/99593529/215290733-6036698b-b283-48ee-a26e-7b5fcc00fcaa.png)
 
 
 #**Task-3**:-
-**CAR PRICE PREDICTION WITH MACHINE LEARNING:-**
+**CAR PRICE PREDICTION WITH MACHINE LEARNING:-** 🚗
 
-The price of a car depends on a lot of factors like the goodwill of the band of the car, feature of the car, horsepower and the mileage it gives and many more. Car price prediction is one of the major research areas in machine learning . So if you want to learn how totrain a car price prediction model then this project is for you.
+
+🚗The price of a car depends on a lot of factors like the goodwill of the band of the car, feature of the car, horsepower and the mileage it gives and many more. 
+🚗Car price prediction is one of the major research areas in machine learning . 
+
+🚗So if you want to learn how totrain a car price prediction model then this project is for you.
 
 #:**Download Dataset from Here:-**
 
@@ -50,12 +66,14 @@ https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
 
 #**Task-4**:-
-**EMAIL SPAM DETECTION WITH MACHINE LEARNING**
+**EMAIL SPAM DETECTION WITH MACHINE LEARNING** 📧
 
 
-We've all been the recipent of spam emails before. spam mail, or junk mail, is a type of email that is sent to a massive number of users at one time, frequency contain cryptic messages, scams, or most dangerously, phishing content.
+📧We've all been the recipent of spam emails before.
+📧spam mail, or junk mail, is a type of email that is sent to a massive number of users at one time, frequency contain cryptic messages, scams, or most dangerously, phishing content.
 
-in this project, use python to built an email spam detector. then, use machine learning to train the spam detctor to recognize and classify emails into spam and non-spam. let's get started!
+📧In this project, use python to built an email spam detector. 
+📧Then, use machine learning to train the spam detctor to recognize and classify emails into spam and non-spam. let's get started!
 
 #:**Download Dataset from here:-**
 
@@ -67,11 +85,11 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 #**Task-5**:-
 
-**SALES PREDICTION USING PYTHON**
+**SALES PREDICTION USING PYTHON** 📈
 
-Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spent to adertise your product, the segment of people you advertise for , or the platform you are advertising on about your product.
+📉Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spent to adertise your product, the segment of people you advertise for , or the platform you are advertising on about your product.
 
-Typically, A product and service-based business always need their Data Scientist to predict their future sales with every step they to manipulate the cost of advertisin their product So let's start the task of sales prediction with machine learning using python.
+📊Typically, A product and service-based business always need their Data Scientist to predict their future sales with every step they to manipulate the cost of advertisin their product So let's start the task of sales prediction with machine learning using python.
 
 **Download Dataset from here:-**
 
